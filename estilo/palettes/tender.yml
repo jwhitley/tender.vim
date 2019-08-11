@@ -30,5 +30,5 @@ grey3: '#444444'
 shadow: '#323232'
 bg: '#282828'
 
-darker: '#1d1d1d'
-darkest: '#040404'
+dark: '#222222'
+darkest: '#1d1d1d'
