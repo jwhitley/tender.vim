@@ -1,8 +1,8 @@
 # GitGutter airblade/vim-gitgutter
-GitGutterAdd: 'green1'
-GitGutterChange: 'blue1'
-GitGutterDelete: 'red1'
-GitGutterChangeDelete: 'red1'
+GitGutterAdd: 'green1 darkest b'
+GitGutterChange: 'blue1 darkest b'
+GitGutterDelete: 'red1 darkest b'
+GitGutterChangeDelete: 'red1 darkest b'
 
 
 
